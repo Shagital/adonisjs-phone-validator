@@ -1,6 +1,6 @@
 {
   "name": "@shagital/adonisjs-phone-validator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Phone number validator for Adonisjs",
   "devDependencies": {
     "@adonisjs/fold": "^4.0.7",

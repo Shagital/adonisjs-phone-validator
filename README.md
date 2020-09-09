@@ -19,11 +19,12 @@ yarn add @shagital/adonisjs-phone-validator
 
 
 ### Step Two - Register Provider
-Open `start/app.js` and add `@shagital/adonisjs-phone/providers/PhoneValidatorProvider` to the `providers` array
+Open `start/app.js` and add `@shagital/adonisjs-phone-validator/providers/PhoneValidatorProvider` to the `providers` array
 
 ## Usage
 You use the `phone` validation syntax just like you'd normally do validation in Adonisjs. Examples below:
 NOTE: The country 2-character ISO code is required. You can find all supported codes [here](https://www.iban.com/country-codes)
+
 ### controller method
 ```js
 //app/Controllers/Http/UserController
