@@ -1,0 +1,31 @@
+{
+  "name": "@shagital/adonisjs-phone-validator",
+  "version": "1.0.0",
+  "description": "Phone number validator for Adonisjs",
+  "devDependencies": {
+    "@adonisjs/fold": "^4.0.7",
+    "@adonisjs/framework": "^5.0.6",
+    "@adonisjs/ignitor": "^2.0.8",
+    "@adonisjs/lucid": "^6.1.4",
+    "japa": "^3.1.1",
+    "japa-cli": "^1.0.1"
+  },
+  "dependencies": {
+    "libphonenumber-js": "^1.7.57"
+  },
+  "keywords": [
+    "adonisjs",
+    "nodejs",
+    "phone",
+    "validation",
+    "validator",
+    "telephone"
+  ],
+  "author": "Zacchaeus Bolaji <zacchaeus@shagital.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Shagital/adonisjs-phone-validator.git"
+  },
+  "homepage": "https://github.com/Shagital/adonisjs-phone-validator"
+}
