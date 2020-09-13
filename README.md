@@ -1,4 +1,7 @@
 # Adonisjs Phone Validator ▲
+![npm](https://img.shields.io/npm/dt/@shagital/adonisjs-phone-validator?style=plastic)
+![npm (scoped)](https://img.shields.io/npm/v/@shagital/adonisjs-phone-validator)
+![NPM](https://img.shields.io/npm/l/@shagital/adonisjs-phone-validator)
 
 ## Introduction
 Adds phone number validation functionality to [Adonisjs](https://github.com/adonisjs/core) on the [JS port](https://github.com/catamphetamine/libphonenumber-js) of Google's [libphonenumber](https://github.com/google/libphonenumber) API by [catamphetamine](https://github.com/catamphetamine)
